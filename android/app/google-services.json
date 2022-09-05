@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "206850288656",
+    "project_id": "social-wall-808a5",
+    "storage_bucket": "social-wall-808a5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206850288656:android:d72d970ccd04f13dceae95",
+        "android_client_info": {
+          "package_name": "com.syed_asif007.app.social_wall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206850288656-fq6ok8jhhq5segekd4ardp0vhl7g84ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBWS9Z6iaLU0K9ejN1E2f-9CkmfRvVO4tk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206850288656-fq6ok8jhhq5segekd4ardp0vhl7g84ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "206850288656-9sgcnq2gf1r6l4iegse1al0g4rb9lfdc.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.syedasif007.app.socialWall"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
